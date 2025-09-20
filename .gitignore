@@ -1,0 +1,17 @@
+# Gradle
+.gradle/
+build/
+
+# IntelliJ
+.idea/
+out/
+*.iml
+
+# Mac
+.DS_Store
+
+# Logs
+*.log
+
+# Sample app build artifacts
+sample-app/build/
